@@ -1,0 +1,27 @@
+{
+  "name": "tough-cookie-lowdb",
+  "version": "0.0.1",
+  "description": "A cookie store for the tough-cookie library based on Lowdb",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andronics/tough-cookie-lowdb.git"
+  },
+  "author": "Steohen Cox <andronics@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andronics/tough-cookie-lowdb/issues"
+  },
+  "homepage": "https://github.com/andronics/tough-cookie-lowdb#readme",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/tough-cookie": "^4.0.0"
+  },
+  "peerDependencies": {
+    "tough-cookie": "*"
+  }
+}
