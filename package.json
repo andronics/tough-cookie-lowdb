@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/andronics/tough-cookie-lowdb#readme",
   "dependencies": {
-    "lodash": "^4.6.1",
+    "lodash": "^4.17.21",
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
